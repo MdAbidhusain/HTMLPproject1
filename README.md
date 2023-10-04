@@ -1,2 +1,2 @@
 # HTMLPproject1
-first project in html css
+This is my Git Repository
